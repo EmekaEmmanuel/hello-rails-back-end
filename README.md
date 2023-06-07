@@ -47,17 +47,7 @@
 
 - [ REACT FRONT END link](https://github.com/EmekaEmmanuel/hello-react-front-end/tree/greet) 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://) 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Project Presentation <a name="project-presentation"></a>
-
-- [Project Presentation video link](https://)   
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
 <!-- GETTING STARTED -->
 
