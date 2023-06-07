@@ -42,18 +42,12 @@
 - Implementation and use of models. . 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+ 
+ ## Hello React Front End <a name="hello-react-front-end"></a>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+- [ REACT FRONT END link](https://github.com/EmekaEmmanuel/hello-react-front-end/tree/greet) 
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://) 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Project Presentation <a name="project-presentation"></a>
-
-- [Project Presentation video link](https://)   
+<p align="right">(<a href="#readme-top">back to top</a>)</p> 
 
 <!-- GETTING STARTED -->
 
